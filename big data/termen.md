@@ -5,6 +5,11 @@ Data
 - Realtime processing
 - Structured/unstructured/semi-structured data
 
+Big Data
+- Big Data Analysis Life Cycle
+- Big Data Characteristics (5 Vâ€™s)
+- CAP-theorie (Consistency, Availability, Partition tolerance)
+
 Database
 - Relational Database Management System (RDBMS)
 - ACID
@@ -16,10 +21,11 @@ Database
 - NewSQL (OLTP, ACID)
 - NoSQL (BASE)
 
-Big Data
-- Big Data Analysis Life Cycle
-- Big Data Characteristics (5 Vâ€™s)
-- CAP
+- Statistiek
+	- Hypothese
+	- Correlatie
+	- Regressie
+	- Normaalverdeling
 
 Data Analyse:
 - Confirmatory Data Analysis (CDA)
@@ -36,6 +42,11 @@ Natural Language Processing (NLP)
 - k-NN (clusteren, supervised)
 - k-means (clusteren, un-supervised)
 
+Tools:
+- Structured Query Language (SQL)
+- SQL Server Management Studio (SSMS)
+- PowerBI
+- Python
 
 Rollen:
 - Data Engineer
@@ -44,17 +55,5 @@ Rollen:
 - BI consultant/specialist
 
 Overig:
-- Statistiek
-	- Hypothese
-	- Correlatie
-	- Regressie
-	- Normaalverdeling
 - Lineaire algebra
 - Euclidische afstand
-
-Tools:
-- Structured Query Language (SQL)
-- SQL Server Management Studio (SSMS)
-- PowerBI
-- Python
-
