@@ -7,7 +7,7 @@ Data
 
 Big Data
 - Big Data Analysis Life Cycle
-- Big Data Characteristics (5 Vâ€™s)
+- Big Data Characteristics (5 V's)
 - CAP-theorie (Consistency, Availability, Partition tolerance)
 
 Database
@@ -22,10 +22,10 @@ Database
 - NoSQL (BASE)
 
 Statistiek
-	- Hypothese
-	- Correlatie
-	- Regressie
-	- Normaalverdeling
+- Hypothese
+- Correlatie
+- Regressie
+- Normaalverdeling
 
 Data Analyse:
 - Confirmatory Data Analysis (CDA)
