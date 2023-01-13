@@ -21,7 +21,7 @@ Database
 - NewSQL (OLTP, ACID)
 - NoSQL (BASE)
 
-- Statistiek
+Statistiek
 	- Hypothese
 	- Correlatie
 	- Regressie
