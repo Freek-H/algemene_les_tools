@@ -11,11 +11,13 @@ Data Warehouse (Voorbeeld klanttevredenheidsonderzoek (KTO)):
 	- Samenvoegen tot één model
 - Rapportage
 	- Businesstermen toevoegen
+- De Bron, Staging en Integratie lagen bevatten kopiën van de data. Afhankelijk van de smaak geldt dit mogelijk ook nog de Rapportagelaag.
 
 Data Vault 2.0
 - Filosofie:
 	- Data komt binnen as-is
 	- Kwaliteitsverantwoordelijkheid ligt bij de bronnen
+	- Maar één kopie van de data en daarmee één waarheid
 
 - Hub tabellen
 	- Informatie die niet veranderd
